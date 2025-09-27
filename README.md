@@ -1,4 +1,6 @@
 # Cypress Copilot
+**Note:** This GitHub repository contains the source code for the Cypress Copilot Visual Studio Code extension ( VS Code Plugin).
+
 **Cypress Copilot** is a Visual Studio Code extension that accelerates BDD (Behavior Driven Development) testing with AI-powered code generation.
 
 ✨ Generate Cypress step definitions & Page Object Models instantly.
