@@ -33,9 +33,10 @@
 
 ## 📘 Usage
 
-1. You can set the API key directly from VS Code.
-    Press Ctrl+Shift+P, type Set API Key, and select the 'Set API Key' command to enter your OpenAI API key.
-2. Open extension from run command of Visual Studio code : Generate Cypress Code Using AI. Paste a BDD scenario:
+1. To set the API key from VS Code.
+    Press Ctrl+Shift+P or go to run commands in Visual Studio code type Generate Cypress Code Using AI, 
+    Then click the 'API Key Settings' and enter your OpenAI API key.
+3. Open extension from run command of Visual Studio code : Generate Cypress Code Using AI. Paste a BDD scenario:
 
     ``` Scenario: User logs into the system
           Given the user is on the login page
